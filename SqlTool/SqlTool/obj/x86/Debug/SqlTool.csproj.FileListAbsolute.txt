@@ -1,0 +1,7 @@
+D:\selfuse\githubrepo\SqlTool\SqlTool\SqlTool\obj\x86\Debug\SqlTool.Form1.resources
+D:\selfuse\githubrepo\SqlTool\SqlTool\SqlTool\obj\x86\Debug\SqlTool.Properties.Resources.resources
+D:\selfuse\githubrepo\SqlTool\SqlTool\SqlTool\obj\x86\Debug\SqlTool.csproj.GenerateResource.Cache
+D:\selfuse\githubrepo\SqlTool\SqlTool\SqlTool\bin\Debug\SqlTool.exe
+D:\selfuse\githubrepo\SqlTool\SqlTool\SqlTool\bin\Debug\SqlTool.pdb
+D:\selfuse\githubrepo\SqlTool\SqlTool\SqlTool\obj\x86\Debug\SqlTool.exe
+D:\selfuse\githubrepo\SqlTool\SqlTool\SqlTool\obj\x86\Debug\SqlTool.pdb
